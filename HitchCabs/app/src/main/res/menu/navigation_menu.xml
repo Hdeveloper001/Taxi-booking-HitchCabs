@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_favorite"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:title="Favorite Locations" />
+    <item android:id="@+id/nav_contactus"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:title="Contact Us" />
+    <item android:id="@+id/nav_privacy"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:title="Privacy Policy" />
+    <item android:id="@+id/nav_terms"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:title="@string/terms_conditions" />
+    <item android:id="@+id/nav_logout"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:title="Log Out" />
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "978228564258",
+    "firebase_url": "https://hitchcabs-896d7.firebaseio.com",
+    "project_id": "hitchcabs-896d7",
+    "storage_bucket": "hitchcabs-896d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978228564258:android:25a23a12680f1719",
+        "android_client_info": {
+          "package_name": "com.example.preet.hitchcabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978228564258-dh7acqn8bo5gjrvmit0vs5vqvn04ugch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlbBbi7LMAvsmg_kimD_UaTi_lU29g5qM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

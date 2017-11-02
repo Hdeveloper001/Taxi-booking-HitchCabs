@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HitchCabs</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="str_pickuplocation">Pickup Location</string>
+    <string name="destination_location">Destination Location</string>
+</resources>
